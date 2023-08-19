@@ -1,4 +1,4 @@
-<h1>Bahadar Srichawla <br/><a href="https://github.com/bsrichawla">Physician Scientist</a>, <a href="https://www.linkedin.com/in/bahadar/"></a>
+<h1>Bahadar Srichawla <br/><a href="https://scholar.google.com/citations?user=OYueD80AAAAJ">Physician Scientist</a>
 
 ### Education
 * Neurology Residency University of Massachusetts Chan Medical School (2022-2025)
