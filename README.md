@@ -1,4 +1,4 @@
-# Physician Scientist
+# Bahadar Srichawla
 
 ### Education
 * Neurology Residency University of Massachusetts Chan Medical School (2022-2025)
