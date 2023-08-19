@@ -3,7 +3,7 @@
 <h2>Education<h2/>
 - <b>Neurology Residency University of Massachusetts Chan Medical School (2022-2025)</b>
 
-  - <b>Internship, Medicine University of Massachusetts Chan Medical School (2021-2022)</b>
+- <b>Internship, Medicine University of Massachusetts Chan Medical School (2021-2022)</b>
 - <b>D.O., Medicine Touro College (2017-2021)</b>
 - <b>Graduate Certificate, Clinical Research  Harvard University (2017-2019)</b>
 - <b>M.S., Biophysics Stony Brook University (2016-2017)</b>
