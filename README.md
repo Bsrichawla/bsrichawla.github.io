@@ -1,6 +1,6 @@
 <h1>Bahadar Srichawla <br/><a href="https://scholar.google.com/citations?user=OYueD80AAAAJ">Physician Scientist</a>
 
-### Education
+<h2>Education <h2/>
 * Neurology Residency University of Massachusetts Chan Medical School (2022-2025)
 * Internship, Medicine University of Massachusetts Chan Medical School (2021-2022)
 * D.O., Medicine Touro College (2017-2021)
