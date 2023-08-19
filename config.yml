@@ -1,5 +1,16 @@
-Title: Bahadar Srichawla
+Title: "Bahadar Srichawla"
+author: "Bahadar Srichawla"
+description: "University of Massachusetts Chan Medical School"
+permalink: /:title/
+lang: "en"
 #logo
-Physician Scientist
 show_downloads: True
 theme: jekyll-theme-minimal
+
+external:
+  - {title: Mail, icon: envelope, url: "mailto:bahadar.srichawla@umassmemorial.org"}
+  - {title: Github, icon: github, url: "https://github.com/bsrichawla"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/BSrichawlaDO"}
+
+plugins:
+ - jekyll-feed
