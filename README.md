@@ -1,7 +1,7 @@
 # **Bahadar Srichawla D.O., M.S.**
 
 ## 🌟 About Me
-My name is Bahadar Srichawla, and I am a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. My research interests are deeply rooted in the rneurological sciences. I am particularly specialized in:
+My name is Bahadar Srichawla, and I am a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. My research interests are deeply rooted in the reurological sciences. I am particularly specialized in:
 
 **Neurocritical Care:** Focusing on advanced treatments and interventions for critically ill neurological patients.
 
