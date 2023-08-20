@@ -1,6 +1,15 @@
 # **Bahadar Srichawla D.O., M.S.**
 ### Technical Skills: Python, RStudio, MATLAB
 
+## 🔗 Links
+* [Google Scholar](https://scholar.google.com/citations?user=OYueD80AAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Bahadar-Srichawla)
+* [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/bahadar.srichawla.1/bibliography/public/?sortby=pubDate&sdirection=descending)
+* [Twitter](https://twitter.com/BSrichawlaDO)
+* [Linkedin](https://www.linkedin.com/in/bahadar/)
+* [Doximity](https://www.doximity.com/profiles/06b345e9-4eb9-4a9c-8263-e104329b3d16/edit)
+* [ORCID](https://orcid.org/0000-0002-5301-4102)
+
 ## 🌟 About Me
 My name is Bahadar Srichawla, and I am a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. My research interests are deeply rooted in the reurological sciences. I am particularly specialized in:
 
