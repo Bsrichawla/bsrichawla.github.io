@@ -19,7 +19,7 @@ My name is Bahadar Srichawla, and I am a current resident physician in the depar
 * **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
 * **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
   
-## 🛠 Experience
+## 🛠 Selected Experience
 * **Resident Physician**, UMass Memorial Medical Center (2021-2025)
 
 
