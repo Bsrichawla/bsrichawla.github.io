@@ -31,7 +31,7 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 * **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
   
 ## 🛠 Selected Experience
-* **Resident Physician**, UMass Memorial Medical Center (2021-2025)
+* **Resident Physician** @ UMass Memorial Medical Center (2021-2025)
 
 
 ## 📈 Projects
