@@ -35,6 +35,12 @@ My name is Bahadar Srichawla, and I am a current resident physician in the depar
 
 
 ## 📈 Projects
+### Neurological Manifestations and Biomarkers in COVID-19
+* [Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
+* [Publication 2](https://journals.sagepub.com/doi/abs/10.1177/10815589231191813)
+  
+This project investigates the clinical, neurological, and laboratory markers in hospitalized COVID-19 patients based on a retrospective study of 1248 inpatients. Key findings reveal that 31% of patients were admitted to the ICU, with a higher prevalence of male and older individuals. Neurological symptoms were observed in 41.74% of the cases, affecting the central nervous system. A mortality rate of 25.16% was noted, significantly higher among ICU-admitted patients. Elevated levels of specific biomarkers like white blood cell count, ferritin, and lactate dehydrogenase were associated with ICU admission. The study underscores the importance of these markers in predicting morbidity, ICU admission, and mortality, offering valuable insights for effective COVID-19 management.
+
 
 ## 📚 Bibliography 
 1.	Purwar S., Fatima A., Bhattacharyya, H., Kutikuppala, L.V.S., Cozma, M-A., **Srichawla, B.S.,** Komer, L., Nurani, K.M., Găman, M.-A. <ins>Toxicity of Targeted Anticancer Treatments on the Liver in Myeloproliferative Neoplasms</ins>. _World Journal of Hepatology_. 2023. 								
