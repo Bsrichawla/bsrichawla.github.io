@@ -43,6 +43,12 @@ Bahadar Srichawla is a current resident physician in the department of neurology
   - Competency in multi-channel electrode array electromyography (EMG) in both mice and rats. 
   - Complex physiological data analysis using MATLAB.
 
+## 🔬 Clinical Trials
+**Sub-Investigator** @ Univeristy of Massachusetts Chan Medical School (2022- )
+  - [BOOST-3 Clinical Trial](https://clinicaltrials.gov/study/NCT03754114)
+  - [FASTEST Phase III Trial](https://classic.clinicaltrials.gov/ct2/show/NCT03496883)
+  - [MOST Phase III Clinical Trial](https://classic.clinicaltrials.gov/ct2/show/NCT03735979)
+    
 ## 📈 Projects
 ## Neurological Manifestations, ICU outcomes, and Biomarkers in COVID-19
 [Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
