@@ -1,9 +1,7 @@
 Title: "Bahadar Srichawla"
 author: "Bahadar Srichawla"
 description: "University of Massachusetts Chan Medical School"
-permalink: /:title/
 lang: "en"
-#logo
 show_downloads: True
 theme: jekyll-theme-minimal
 
