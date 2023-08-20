@@ -1,4 +1,5 @@
 # **Bahadar Srichawla D.O., M.S.**
+## Physician-Scientist
 ### Technical Skills: Python, RStudio, MATLAB
 
 ## 🔗 Links
