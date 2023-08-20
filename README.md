@@ -1,5 +1,5 @@
 # **Bahadar Srichawla D.O., M.S.**
-###Technical Skills: Python, RStudio, MATLAB
+### Technical Skills: Python, RStudio, MATLAB
 
 ## 🌟 About Me
 My name is Bahadar Srichawla, and I am a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. My research interests are deeply rooted in the reurological sciences. I am particularly specialized in:
