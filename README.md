@@ -3,13 +3,13 @@
 ### Technical Skills: Python, RStudio, MATLAB
 
 ## 🔗 Links
-* [Google Scholar](https://scholar.google.com/citations?user=OYueD80AAAAJ)
-* [ResearchGate](https://www.researchgate.net/profile/Bahadar-Srichawla)
-* [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/bahadar.srichawla.1/bibliography/public/?sortby=pubDate&sdirection=descending)
-* [Twitter](https://twitter.com/BSrichawlaDO)
-* [Linkedin](https://www.linkedin.com/in/bahadar/)
-* [Doximity](https://www.doximity.com/profiles/06b345e9-4eb9-4a9c-8263-e104329b3d16/edit)
-* [ORCID](https://orcid.org/0000-0002-5301-4102)
+[Google Scholar](https://scholar.google.com/citations?user=OYueD80AAAAJ)    [ResearchGate](https://www.researchgate.net/profile/Bahadar-Srichawla)
+
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/bahadar.srichawla.1/bibliography/public/?sortby=pubDate&sdirection=descending)  [Twitter](https://twitter.com/BSrichawlaDO)
+  
+[Linkedin](https://www.linkedin.com/in/bahadar/)  [Doximity](https://www.doximity.com/profiles/06b345e9-4eb9-4a9c-8263-e104329b3d16/edit)
+
+[ORCID](https://orcid.org/0000-0002-5301-4102)
 
 ## 🌟 Biography
 Bahadar Srichawla is a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. His research interests are deeply rooted in the reurological sciences. And is particularly specialized in:
@@ -23,21 +23,27 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 **Data Science & Machine Learning in ICU:** Leveraging data science and machine learning techniques to advance our understanding of cerebral physiology. The aim is to employ these technologies to improve the clinical care of patients in the intensive care unit.
 
 ## 🎓 Education
-* **Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
-* **Internship**, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
-* **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
-* **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
-* **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
-* **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
+**Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
+
+ **Internship**, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
+ 
+ **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
+ 
+ **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
+ 
+ **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
+ 
+ **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
   
 ## 🛠 Selected Experience
-* **Resident Physician** @ UMass Memorial Medical Center (2021-2025)
+**Resident Physician** @ UMass Memorial Medical Center (2021-2025)
 
 
 ## 📈 Projects
 ### Neurological Manifestations and Biomarkers in COVID-19
-* [Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
-* [Publication 2](https://journals.sagepub.com/doi/abs/10.1177/10815589231191813)
+[Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
+
+[Publication 2](https://journals.sagepub.com/doi/abs/10.1177/10815589231191813)
   
 This project investigates the clinical, neurological, and laboratory markers in hospitalized COVID-19 patients based on a retrospective study of 1248 inpatients. Key findings reveal that 31% of patients were admitted to the ICU, with a higher prevalence of male and older individuals. Neurological symptoms were observed in 41.74% of the cases, affecting the central nervous system. A mortality rate of 25.16% was noted, significantly higher among ICU-admitted patients. Elevated levels of specific biomarkers like white blood cell count, ferritin, and lactate dehydrogenase were associated with ICU admission. The study underscores the importance of these markers in predicting morbidity, ICU admission, and mortality, offering valuable insights for effective COVID-19 management.
 
