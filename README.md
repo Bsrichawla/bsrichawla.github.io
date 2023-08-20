@@ -41,6 +41,7 @@ Bahadar Srichawla is a current resident physician in the department of neurology
   
 This project investigates the clinical, neurological, and laboratory markers in hospitalized COVID-19 patients based on a retrospective study of 1248 inpatients. Key findings reveal that 31% of patients were admitted to the ICU, with a higher prevalence of male and older individuals. Neurological symptoms were observed in 41.74% of the cases, affecting the central nervous system. A mortality rate of 25.16% was noted, significantly higher among ICU-admitted patients. Elevated levels of specific biomarkers like white blood cell count, ferritin, and lactate dehydrogenase were associated with ICU admission. The study underscores the importance of these markers in predicting morbidity, ICU admission, and mortality, offering valuable insights for effective COVID-19 management.
 
+![Table](assets/table1.jpg)
 
 ## 📚 Bibliography 
 1.	Purwar S., Fatima A., Bhattacharyya, H., Kutikuppala, L.V.S., Cozma, M-A., **Srichawla, B.S.,** Komer, L., Nurani, K.M., Găman, M.-A. <ins>Toxicity of Targeted Anticancer Treatments on the Liver in Myeloproliferative Neoplasms</ins>. _World Journal of Hepatology_. 2023. 								
