@@ -11,8 +11,8 @@
 * [Doximity](https://www.doximity.com/profiles/06b345e9-4eb9-4a9c-8263-e104329b3d16/edit)
 * [ORCID](https://orcid.org/0000-0002-5301-4102)
 
-## 🌟 About Me
-My name is Bahadar Srichawla, and I am a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. My research interests are deeply rooted in the reurological sciences. I am particularly specialized in:
+## 🌟 Biography
+Bahadar Srichawla is a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. His research interests are deeply rooted in the reurological sciences. And is particularly specialized in:
 
 **Neurocritical Care:** Focusing on advanced treatments and interventions for critically ill neurological patients.
 
@@ -20,7 +20,7 @@ My name is Bahadar Srichawla, and I am a current resident physician in the depar
 
 **Multimodal Neuromonitoring:** Utilizing multiple forms of neurological monitoring to provide a comprehensive understanding of a patient's neurophysiological state.
 
-**Data Science & Machine Learning in ICU:** I am excited about leveraging data science and machine learning techniques to advance our understanding of cerebral physiology. My aim is to employ these technologies to improve the clinical care of patients in the intensive care unit.
+**Data Science & Machine Learning in ICU:** Leveraging data science and machine learning techniques to advance our understanding of cerebral physiology. The aim is to employ these technologies to improve the clinical care of patients in the intensive care unit.
 
 ## 🎓 Education
 * **Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
