@@ -40,7 +40,7 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 
 
 ## 📈 Projects
-### Neurological Manifestations, ICU outcomes, and Biomarkers in COVID-19
+## Neurological Manifestations, ICU outcomes, and Biomarkers in COVID-19
 [Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
 
 [Publication 2](https://journals.sagepub.com/doi/abs/10.1177/10815589231191813)
