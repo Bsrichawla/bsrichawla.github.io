@@ -1,8 +1,8 @@
-Title: Bahadar Srichawla
+title: Bahadar Srichawla
 logo: assets/profile.png
 author: "Bahadar Srichawla"
 description: "University of Massachusetts Chan Medical School"
-  email: bahadar.srichawla@umassmemorial.org
+email: bahadar.srichawla@umassmemorial.org
 lang: "en"
 show_downloads: True
 theme: jekyll-theme-minimal
@@ -13,4 +13,4 @@ external:
   - {title: Twitter, icon: twitter, url: "https://twitter.com/BSrichawlaDO"}
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
