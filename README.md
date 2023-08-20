@@ -7,7 +7,7 @@
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/bahadar.srichawla.1/bibliography/public/?sortby=pubDate&sdirection=descending)  [Twitter](https://twitter.com/BSrichawlaDO)
   
-[Linkedin](https://www.linkedin.com/in/bahadar/)  [Doximity](https://www.doximity.com/profiles/06b345e9-4eb9-4a9c-8263-e104329b3d16/edit)
+[Linkedin](https://www.linkedin.com/in/bahadar/)  [Doximity](https://www.doximity.com/pub/bahadar-srichawla-do-6c4cf0da)
 
 [ORCID](https://orcid.org/0000-0002-5301-4102)
 
