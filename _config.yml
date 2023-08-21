@@ -11,9 +11,9 @@ title                    : "Kyle R. Campbell / Member of the laboratory of Dr. K
 title_separator          : "-"
 name                     : &name "Kyle R. Campbell"
 description              : &description "Neurological care of sepsis patients at UBC via HLI at SPH"
-url                      : https://kylec1729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bsrichawla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kylec1729/kylec1729.github.io"
+repository               : "bsrichawla/bsrichawla.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
