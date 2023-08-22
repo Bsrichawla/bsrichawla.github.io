@@ -3,6 +3,8 @@ logo: assets/profile.png
 author: "Bahadar Srichawla"
 description: "University of Massachusetts Chan Medical School"
 email: bahadar.srichawla@umassmemorial.org
+twitter_username: BSrichawlaDO
+github_username: Bsrichawla
 lang: "en"
 show_downloads: True
 theme: jekyll-theme-minimal
