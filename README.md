@@ -27,7 +27,7 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 ### **Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
 - Department of Neurology Research Award, 2023
 
-### Internship, Medicine, University of Massachusetts Chan Medical School (2021-2022)
+### Internship, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
 
 ### **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
 - Omega Beta Iota (ΩβΙ) Honor Society
