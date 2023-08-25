@@ -67,7 +67,7 @@ This project focuses on the relationship between neuromyelitis optica spectrum d
 ![NMOSD](assets/NMOSD.jpg)
 
 ## 📚 Preprints
-Garcia-Dominguez, M.A.!, **Srichawla, B.S.!#**, Kipkorir, V. COVID-19 Symptoms and Immunotherapy in People with Multiple Sclerosis: An Analysis of the COVID-19 in MS Global Data Sharing Initiative Dataset. MedRxiv. MEDRXIV/2023/294509 [10.1101/2023.08.23.23294509](https://www.medrxiv.org/content/10.1101/2023.08.23.23294509v1) (! Contributed Equally #Corresponding Author)
+Garcia-Dominguez, M.A.!, **Srichawla, B.S.!#**, Kipkorir, V. COVID-19 Symptoms and Immunotherapy in People with Multiple Sclerosis: An Analysis of the COVID-19 in MS Global Data Sharing Initiative Dataset. _MedRxiv_. MEDRXIV/2023/294509 [10.1101/2023.08.23.23294509](https://www.medrxiv.org/content/10.1101/2023.08.23.23294509v1) (! Contributed Equally #Corresponding Author)
 
 ## 📚 Bibliography 
 1.	Purwar S., Fatima A., Bhattacharyya, H., Kutikuppala, L.V.S., Cozma, M-A., **Srichawla, B.S.,** Komer, L., Nurani, K.M., Găman, M.-A. <ins>Toxicity of Targeted Anticancer Treatments on the Liver in Myeloproliferative Neoplasms</ins>. _World Journal of Hepatology_. 2023. 								
