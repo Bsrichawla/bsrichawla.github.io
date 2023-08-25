@@ -23,17 +23,25 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 **Data Science & Machine Learning in ICU:** Leveraging data science and machine learning techniques to advance our understanding of cerebral physiology. The aim is to employ these technologies to improve the clinical care of patients in the intensive care unit.
 
 ## 🎓 Education
-**Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
+### **Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
+  - Department of Neurology Research Award, 2023
 
- **Internship**, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
+ ### **Internship**, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
  
- **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
+ ### **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
+   - Omega Beta Iota (ΩβΙ) Honor Society
+   - 	Sigma Sigma Phi (ΣΣΦ) Honor Society
  
- **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
+ ### **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
+   - Thesis Title: [_Efficacy of Posaconazole for Treatment of Basal Cell Carcinoma_](10.13140/RG.2.2.22008.78081)
+
+ ### **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
+   - GPA 4.0/4.0
+   - Thesis Title: [_Effects of the Baroreflex in Response to Phenylephrine and Nitroprusside in Vagotomized and Non-Vagotomized rats_](10.13140/RG.2.2.23686.50240)
+   - Relevant Coursework: Statistical & Model-Based Analysis of Physiological Data
  
- **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
- 
- **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
+ ### **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
+   - Dean's List 2015-2016
   
 ## 🛠 Selected Experience
 **Resident Physician** @ UMass Memorial Medical Center (2021-2025)
