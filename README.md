@@ -44,15 +44,15 @@ Bahadar Srichawla is a current resident physician in the department of neurology
    - Dean's List 2015-2016
   
 ## 🛠 Selected Experience
-**Resident Physician** @ UMass Memorial Medical Center (2021-2025)
+### **Resident Physician** @ UMass Memorial Medical Center (2021-2025)
 
-**Research Associate** @ Stony Brook University (2015-2017)
+### **Research Associate** @ Stony Brook University (2015-2017)
   - Solomon Lab: Understanding the mechanisms by which central nervous system (CNS) neurons integrate peripheral and central inputs in respiratory and cardiovascular control.
   - Competency in multi-channel electrode array electromyography (EMG) in both mice and rats. 
   - Complex physiological data analysis using MATLAB.
 
 ## 🔬 Clinical Trials
-**Sub-Investigator** @ Univeristy of Massachusetts Chan Medical School (2022- )
+### **Sub-Investigator** @ Univeristy of Massachusetts Chan Medical School (2022- )
   - [BOOST-3 Clinical Trial](https://clinicaltrials.gov/study/NCT03754114)
   - [FASTEST Phase III Clinical Trial](https://classic.clinicaltrials.gov/ct2/show/NCT03496883)
   - [MOST Phase III Clinical Trial](https://classic.clinicaltrials.gov/ct2/show/NCT03735979)
