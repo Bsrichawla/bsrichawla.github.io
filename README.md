@@ -26,18 +26,18 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 
 ### **Residency**, _Neurology_, University of Massachusetts Chan Medical School (2022-2025)
   Department of Neurology Research Award, 2023
- 
- ### **Internship**, _Medicine_, University of Massachusetts Chan Medical School (2021-2022)
- 
- ### **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
+
+### Internship, Medicine, University of Massachusetts Chan Medical School (2021-2022)
+
+### **Doctor of Osteopathic Medicine (D.O.)**, _Medicine_, Touro College (2017-2021)
    Omega Beta Iota (ΩβΙ) Honor Society
    
    Sigma Sigma Phi (ΣΣΦ) Honor Society
  
- ### **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
+### **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
    Thesis Title: [_Efficacy of Posaconazole for Treatment of Basal Cell Carcinoma_](https://www.researchgate.net/publication/350439628_Efficacy_of_Posaconazole_for_Treatment_of_Basal_Cell_Carcinoma)
      
- ### **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
+### **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
    GPA 4.0/4.0
    
    Thesis Title: [_Effects of the Baroreflex in Response to Phenylephrine and Nitroprusside in Vagotomized and Non-Vagotomized rats_](https://www.researchgate.net/publication/350439205_The_Physiological_Effects_of_the_Baroreflex_in_Response_to_Phenylephrine_and_Nitroprusside_in_Vagotomized_and_Non-Vagotomized_Rats)
