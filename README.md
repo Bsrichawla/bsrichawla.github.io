@@ -40,8 +40,8 @@ Bahadar Srichawla is a current resident physician in the department of neurology
 - GPA 4.0/4.0
 - Thesis Title: [_Effects of the Baroreflex in Response to Phenylephrine and Nitroprusside in Vagotomized and Non-Vagotomized rats_](https://www.researchgate.net/publication/350439205_The_Physiological_Effects_of_the_Baroreflex_in_Response_to_Phenylephrine_and_Nitroprusside_in_Vagotomized_and_Non-Vagotomized_Rats)
 - Relevant Coursework: Statistical & Model-Based Analysis of Physiological Data
-     
- ### **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
+
+### **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
  - Dean's List 2015-2016
   
 ## 🛠 Selected Experience
