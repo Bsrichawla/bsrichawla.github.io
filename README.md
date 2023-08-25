@@ -33,11 +33,11 @@ Bahadar Srichawla is a current resident physician in the department of neurology
    - 	Sigma Sigma Phi (ΣΣΦ) Honor Society
  
  ### **Graduate Certificate**, _Clinical Research_,  Harvard University (2017-2019)
-   - Thesis Title: [_Efficacy of Posaconazole for Treatment of Basal Cell Carcinoma_](10.13140/RG.2.2.22008.78081)
+   - Thesis Title: [_Efficacy of Posaconazole for Treatment of Basal Cell Carcinoma_](https://10.13140/RG.2.2.22008.78081)
 
  ### **Master of Science (M.S.)**, _Biophysics_, Stony Brook University (2016-2017)
    - GPA 4.0/4.0
-   - Thesis Title: [_Effects of the Baroreflex in Response to Phenylephrine and Nitroprusside in Vagotomized and Non-Vagotomized rats_](10.13140/RG.2.2.23686.50240)
+   - Thesis Title: [_Effects of the Baroreflex in Response to Phenylephrine and Nitroprusside in Vagotomized and Non-Vagotomized rats_](https://10.13140/RG.2.2.23686.50240)
    - Relevant Coursework: Statistical & Model-Based Analysis of Physiological Data
  
  ### **Bachelor of Science (B.S.)**, _Neuroscience_, Stony Brook University (2012-2016)
