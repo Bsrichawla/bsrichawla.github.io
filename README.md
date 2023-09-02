@@ -12,7 +12,7 @@
 [ORCID](https://orcid.org/0000-0002-5301-4102)
 
 ## 🌟 Biography
-Bahadar Srichawla is a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. His research interests are deeply rooted in the reurological sciences. And is particularly specialized in:
+Bahadar Srichawla is a current resident physician in the department of neurology at the University of Massachusetts Chan Medical School. His research interests are deeply rooted in the neurological sciences. And is particularly specialized in:
 
 **Neurocritical Care:** Focusing on advanced treatments and interventions for critically ill neurological patients.
 
