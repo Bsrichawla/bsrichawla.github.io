@@ -80,7 +80,7 @@ This project focuses on the relationship between neuromyelitis optica spectrum d
 2. Garcia-Dominguez, M.A.!, **Srichawla, B.S.!#**, Kipkorir, V. <ins>COVID-19 Symptoms and Immunotherapy in People with Multiple Sclerosis: An Analysis of the COVID-19 in MS Global Data Sharing Initiative Dataset</ins>. _MedRxiv_. MEDRXIV/2023/294509 [10.1101/2023.08.23.23294509](https://www.medrxiv.org/content/10.1101/2023.08.23.23294509v1) (! Contributed Equally #Corresponding Author)
 
 ## 📚 Bibliography 
-1. **Srichawla, B.S.,**, Bose, A., Kipkorir, V. <ins>Cranial Neurolymphomatosis and Its Oncologic Counterparts: Case Series on Malignant Cranial Nerve Neuropathies</ins>. _SAGE Open Medical Case Reports_. 2023. PMID: 
+1. **Srichawla, B.S.,** Bose, A., Kipkorir, V. <ins>Cranial Neurolymphomatosis and Its Oncologic Counterparts: Case Series on Malignant Cranial Nerve Neuropathies</ins>. _SAGE Open Medical Case Reports_. 2023. PMID: 
 2. **Srichawla, B.S.,** Fang, T., Kipkorir, V., Garcia-Dominguez, M. <ins>Reversible Cerebral Vasoconstriction Syndrome (RCVS) and Posterior Reversible Encephalopathy Syndrome (PRES) Following Vaccination: An Analysis of the VAERS Database and Systematic Review</ins>. _Annals of Medicine & Surgery_. 2023. PMID: 
 3. **Srichawla, B.S.,** Kipkorir, V., Sekhon, M. <ins>Clinical Indications and Outcomes of Impella Devices for Severe Cardiogenic Shock in COVID-19 Patients: A Systematic Review</ins>. _Annals of Medicine & Surgery_. 2023. PMID:	
 4. Manan, M.R., Kipkorir, V., Nawaz, I., Waithaka, M.W., **Srichawla, B.S.,** Găman, A.M., Diaconu, C.C., Găman, M.-A. <ins>Acute myocardial infarction in myeloproliferative neoplasms</ins>. _World Journal of Cardiology_. 2023; 15 (11) 571-581. 10.4330/wjc.v15.i11.571 PMID: 
