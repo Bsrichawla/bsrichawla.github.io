@@ -81,8 +81,6 @@ A subgroup analysis of 387 patients admitted to the ICU was conducted. Nearly ha
 This project focuses on the relationship between neuromyelitis optica spectrum disorder (NMOSD) and breast cancer. NMOSD is an autoimmune astrocytopathy marked by neuroinflammation and demyelination in the central nervous system, often mediated by aquaporin-4 immunoglobulin (AQP4-IgG). The meta-anlysis was completed using Python, and data visualization was completed using GraphPad Prism. Based on a systematic review and meta-analysis of 12 publications, we identified 19 cases, all in women, with an average age of 51.26 years. Neurological symptoms like speech abnormalities and myelopathy were commonly observed, and MRI scans often showed longitudinally extensive transverse myelitis involving the cervical spine. Our data reveals a complex temporal relationship between NMOSD and breast cancer diagnosis: 15.9% were diagnosed with both conditions within the same month, 26.1% had prior breast cancer diagnosis, and 42.1% were diagnosed with breast cancer following NMOSD. Given the broad time range for breast cancer diagnosis relative to NMOSD onset, our study suggests that older women newly diagnosed with NMOSD should undergo frequent breast cancer screening.
 ![NMOSD](assets/NMOSD.jpg)
 
-## 📚 Preprints
-
 
 ## 📚 Bibliography 
 1. **Srichawla, B.S.**, Manan, M.R., Kipkorir, V., Dhali, A., Diebel, S., Sawant, T., Zia, S., Carrion-Alvarez, D., Suteja, R.C., Nurani, K., Găman, M.-A. <ins>Neuroinvasion of Emerging and Re-emerging Arboviruses: A Scoping Review</ins>. _SAGE Open Medicine_. (Accepted for publication)
