@@ -60,9 +60,10 @@ Bahadar Srichawla is a current resident physician in the department of neurology
     
 ## 📈 Selected Projects
 ## The Effects of Catheter Ablation on Cognitive Outcomes in Atrial Fibrillation
-[Publication 1](https://www.frontiersin.org/articles/10.3389/fneur.2023.1302020/full)
+[Publication](https://www.frontiersin.org/articles/10.3389/fneur.2023.1302020/full)
 
  The study, part of the SAGE-AF cohort, enrolled ambulatory patients aged 65 or older with AF eligible for oral anticoagulation from clinics in Massachusetts and Georgia between 2016 and 2018. Cognitive function was assessed using the Montreal Cognitive Assessment (MoCA) at baseline, 1 year, and 2 years, with a score of 23 or less defining cognitive impairment. The study included 887 participants, with an average age of 75.2 years, and found that those who had undergone CA before enrollment were significantly less likely to experience cognitive impairment over the two-year period compared to those receiving only medical management. This was evident even after adjusting for propensity score for CA. Specifically, at the 2-year follow-up, a higher percentage of patients in the non-CA group showed cognitive impairment compared to the CA group. The study concludes that CA for AF appears to be associated with a lower likelihood of cognitive impairment in this patient population over a two-year period.
+ ![Graph](assets/graph1.jpg)
  
 ## Neurological Manifestations, ICU outcomes, and Biomarkers in COVID-19
 [Publication 1](https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/07000/a_single_center_retrospective_study_of.13.aspx)
@@ -71,7 +72,7 @@ Bahadar Srichawla is a current resident physician in the department of neurology
   
 This project investigates the clinical, neurological, and laboratory markers in hospitalized COVID-19 patients based on a retrospective study of 1248 inpatients. A multivariate logistic regression analysis was completed using SAS. Key findings reveal that 31% of patients were admitted to the ICU, with a higher prevalence of male and older individuals. Neurological symptoms were observed in 41.74% of the cases, affecting the central nervous system. A mortality rate of 25.16% was noted, significantly higher among ICU-admitted patients. Elevated levels of specific biomarkers like white blood cell count, ferritin, and lactate dehydrogenase were associated with ICU admission. The study underscores the importance of these markers in predicting morbidity, ICU admission, and mortality, offering valuable insights for effective COVID-19 management.
 
-A subroup analysis of 387 patients admitted to the ICU was conducted. Nearly half (48.5%) of the ICU patients succumbed to COVID-19. Factors that contributed to increased mortality included being 60 years of age or older, impaired consciousness, lung disease, elevated international normalized ratio (INR) and elevated blood urea nitrogen (BUN) levels. Surprisingly, symptoms such as dizziness/lightheadedness, myalgia, and headache were associated with a higher likelihood of survival. Additionally, elevated D-dimer and aspartate aminotransferase (AST) levels, as well as lymphopenia, were more commonly observed in deceased patients.
+A subgroup analysis of 387 patients admitted to the ICU was conducted. Nearly half (48.5%) of the ICU patients succumbed to COVID-19. Factors that contributed to increased mortality included being 60 years of age or older, impaired consciousness, lung disease, elevated international normalized ratio (INR) and elevated blood urea nitrogen (BUN) levels. Surprisingly, symptoms such as dizziness/lightheadedness, myalgia, and headache were associated with a higher likelihood of survival. Additionally, elevated D-dimer and aspartate aminotransferase (AST) levels, as well as lymphopenia, were more commonly observed in deceased patients.
 ![Table](assets/table1.jpg)
 
 ## Meta Analysis: Neuromyelitis Optica Spectrum Disorder (NMOSD) and Breast Cancer
